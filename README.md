@@ -1,5 +1,3 @@
-# Creating the README.md content
-readme_content = """
 # **Crop Classification Using Remote Sensing and Machine Learning**
 
 This project focuses on crop classification using Sentinel-1 SAR data processed in Google Earth Engine (GEE) and machine learning techniques like K-Means clustering and Random Forest classification.
