@@ -5,7 +5,7 @@ This project focuses on LULC classification using Sentinel-1 SAR data processed 
 ---
 
 ## **Overview**
-LULC classification plays a vital role in agricultural monitoring and planning. This project leverages Synthetic Aperture Radar (SAR) data (VV, VH, and VV-VH) to classify LULC in a specific region. The workflow includes data preprocessing in GEE, feature extraction, clustering, and supervised classification.
+This project leverages Synthetic Aperture Radar (SAR) data (VV, VH, and VV-VH) to classify LULC in a specific region. The workflow includes data preprocessing in GEE, feature extraction, clustering, and supervised classification.
 
 ---
 
