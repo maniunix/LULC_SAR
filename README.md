@@ -43,5 +43,7 @@ LULC classification plays a vital role in agricultural monitoring and planning. 
 ## **Results**
 - **Output**:
   - Classified raster map of the study region showing different crop types.
+  - ![LULC Map](LULC%20Map.png)
 - **Performance**:
   - Performance metrics (e.g., accuracy, precision, recall, F1-score) for Random Forest classification are provided.
+
