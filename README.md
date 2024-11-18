@@ -1,11 +1,11 @@
-# **Crop Classification Using Remote Sensing and Machine Learning**
+# **LULC Classification Using Remote Sensing and Machine Learning**
 
-This project focuses on crop classification using Sentinel-1 SAR data processed in Google Earth Engine (GEE) and machine learning techniques like K-Means clustering and Random Forest classification.
+This project focuses on LULC classification using Sentinel-1 SAR data processed in Google Earth Engine (GEE) and machine learning techniques like K-Means clustering and Random Forest classification.
 
 ---
 
 ## **Overview**
-Crop classification plays a vital role in agricultural monitoring and planning. This project leverages Synthetic Aperture Radar (SAR) data (VV, VH, and VV-VH) to classify crops in a specific region. The workflow includes data preprocessing in GEE, feature extraction, clustering, and supervised classification.
+LULC classification plays a vital role in agricultural monitoring and planning. This project leverages Synthetic Aperture Radar (SAR) data (VV, VH, and VV-VH) to classify LULC in a specific region. The workflow includes data preprocessing in GEE, feature extraction, clustering, and supervised classification.
 
 ---
 
@@ -35,7 +35,7 @@ Crop classification plays a vital role in agricultural monitoring and planning. 
 
 ### **4. Supervised Classification**
 - **Algorithm**: Random Forest
-  - Use labeled training data (created manually or derived from known points) to classify clusters into specific crop types.
+  - Use labeled training data (created manually or derived from known points) to classify clusters into specific LULC types.
   - Extract statistical features (e.g., mean, median) for VV, VH, and VV-VH bands as input features.
 
 ---
